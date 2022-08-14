@@ -32,7 +32,7 @@ export default defineConfig({
     proxy: {
       // 选项写法
       '/api': {
-        target: 'https://www.fastmock.site/mock/4d55240aee5d7124bf3b97c3bfae7a56', // 代理的目标地址
+        target: 'your address', // 代理的目标地址
         /* http请求头部的origin字段
           开发模式中默认的origin是本地的origin
           代理服务会将origin修改为目标地址
