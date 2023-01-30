@@ -1,4 +1,4 @@
-# Vue 3 + TypeScript + Vite
+# Vue 3 + TypeScript + Vite 后台管理系统空白模板
 
 # 基础配置如下
   1、commitlint 提交代码验证
